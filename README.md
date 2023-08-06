@@ -5,6 +5,7 @@ It converts the temperature between:
   - Celsius
   - Fahrenheit
   - Kelvin
+
 as per the user requirement.
 
 ## Visit the page here:
